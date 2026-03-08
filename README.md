@@ -1,14 +1,28 @@
-# dash_board
+# 📊 AdminPro Dashboard Application
 
-## Project Description
-dash_board is a React-based dashboard application built with TypeScript, Vite, and Tailwind CSS. It provides various components such as Analytics, Calendar, Kanban, Users, and Sidebar to create a comprehensive and interactive user interface for managing data and tasks.
+A modern React dashboard built with TypeScript, Vite, and Tailwind CSS.  
+It includes analytics, calendar, kanban board, and user management components with a responsive UI.
 
-## Features
-- Responsive and modern UI using Tailwind CSS
-- Multiple dashboard components including Analytics, Calendar, Kanban, and Users
-- Theme context support for light and dark modes
-- Built with React and TypeScript for type safety and maintainability
-- Fast development and build with Vite
+## 🚀 Live Demo
+https://dash-board-opal.vercel.app
+
+## 📸 Preview
+<img width="1686" height="982" alt="Screenshot 2026-03-08 at 2 42 01 PM" src="https://github.com/user-attachments/assets/cd12bfb0-520a-4ac2-814c-04e4d132de53" />
+
+## ✨ Features
+- 📊 Analytics dashboard
+- 📅 Calendar component
+- 📋 Kanban task board
+- 👥 Users management
+- 🌗 Light / Dark theme support
+- 📱 Fully responsive UI
+- ⚡ Fast performance using Vite
+
+## 🛠 Tech Stack
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 
 ## Installation
 
@@ -39,12 +53,6 @@ dash_board is a React-based dashboard application built with TypeScript, Vite, a
 - Customize the theme using the theme context.
 - Extend the dashboard by adding new components in the `src/components` directory.
 
-## Technologies Used
-
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
 
 ## Contributing
 
